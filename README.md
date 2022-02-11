@@ -30,11 +30,11 @@ Voici la liste des composants d'on vous aurez besoin :
 
 ## Schémas électronique :
 
-![alt text](https://github.com/RamusAs/useless_machine/blob/master/img/image%201.png?raw=true)
-![alt text](https://github.com/RamusAs/useless_machine/blob/master/img/image%203.png?raw=true)
+![alt text](https://github.com/ThibaultLenoble/useless_machine/blob/develop/img/image%201.png?raw=true)
+![alt text](https://github.com/ThibaultLenoble/useless_machine/blob/develop/img/image%203.png?raw=true)
 
 ## Galerie :
 
-![alt text](https://github.com/RamusAs/useless_machine/blob/master/img/incline.png?raw=true)
-![alt text](https://github.com/RamusAs/useless_machine/blob/master/img/cote.png?raw=true)
-![alt text](https://github.com/RamusAs/useless_machine/blob/master/img/travers.png?raw=true)
+![alt text](https://github.com/ThibaultLenoble/useless_machine/blob/develop/img/incline.png?raw=true)
+![alt text](https://github.com/ThibaultLenoble/useless_machine/blob/develop/img/cote.png?raw=true)
+![alt text](https://github.com/ThibaultLenoble/useless_machine/blob/develop/img/travers.png?raw=true)
